@@ -1,10 +1,10 @@
-﻿# [HE/AP/SAP] Neptunia 32bit Mega Blade
+﻿# Neptunia 32-bit Mega Blade
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-32bit-Mega-Blade?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-32bit-Mega-Blade)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-32bit-Mega-Blade)
 
-HE & AP & SAP shell model modification
+Shell model modification
 
 ## Installation
 * **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
